@@ -1,0 +1,1 @@
+Write a forth compiler compiler should read .fs files, generate .s files, call 'as' and 'ld' to create binaries. can be written in any language, backend can be for x86_64 but also for any other cpu you'd like. 6502 would be very cool. list of supported words: +, -, *, dup, swap, tack, neg, drop, over, mod, nip, ., .s
